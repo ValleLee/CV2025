@@ -1,0 +1,7 @@
+
+# 只忽略 proj4 文件夹下的 data 文件夹
+/proj4/data/
+
+# 只忽略 proj5 文件夹下的 data 文件夹
+/proj5/data/
+
